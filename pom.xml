@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>me.raynes</groupId>
+  <groupId>com.farmlogs</groupId>
   <artifactId>fs</artifactId>
   <packaging>jar</packaging>
   <version>1.4.7-SNAPSHOT</version>
@@ -18,7 +18,7 @@
     <url>https://github.com/FarmLogs/fs</url>
     <connection>scm:git:git://github.com/FarmLogs/fs.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/FarmLogs/fs.git</developerConnection>
-    <tag>147f7b30d2c3c7e773a3650bf16a7b5720acfde8</tag>
+    <tag>63d694889a981854aa7ec35f42bd69ac7004591f</tag>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
