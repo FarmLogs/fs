@@ -4,7 +4,7 @@ lib
 classes
 README.html
 docs
-target
+src/raynes/fs/target
 doc
 test/me/raynes/testfiles/round*
 /.idea
